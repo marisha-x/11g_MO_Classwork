@@ -11,5 +11,5 @@ https://colab.research.google.com/github/google/eng-edu/blob/main/ml/cc/exercise
 https://developers.google.com/machine-learning/intro-to-ml
 
 Разгледай следващата Jupiter notebook форма. Можеш ли да си обясниш какво се случва във всяка клетка с код?
-Отвори и копирай работен файл на своя гъгъл диск:
+Отвори и копирай за да съсздадеш свой работен файл на своя гугъл диск:
 https://colab.research.google.com/drive/1JV2BAUpsXvncpQVeai35QJCpaj2Zeka7?usp=sharing
