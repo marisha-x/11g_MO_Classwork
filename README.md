@@ -14,6 +14,6 @@ https://developers.google.com/machine-learning/intro-to-ml
 Отвори и копирай за да съсздадеш свой работен файл на своя гугъл диск:
 https://colab.research.google.com/drive/1JV2BAUpsXvncpQVeai35QJCpaj2Zeka7?usp=sharing
 
-Работния шаблон за днес:
+Работния шаблон за днес 05.07.2026:
 
 https://colab.research.google.com/drive/1gQHVDhaLKGiw8RSJM1XHAUC24m8zuO3Y?usp=sharing
