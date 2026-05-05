@@ -13,3 +13,7 @@ https://developers.google.com/machine-learning/intro-to-ml
 Разгледай следващата Jupiter notebook форма. Можеш ли да си обясниш какво се случва във всяка клетка с код?
 Отвори и копирай за да съсздадеш свой работен файл на своя гугъл диск:
 https://colab.research.google.com/drive/1JV2BAUpsXvncpQVeai35QJCpaj2Zeka7?usp=sharing
+
+Работния шаблон за днес:
+
+https://colab.research.google.com/drive/1gQHVDhaLKGiw8RSJM1XHAUC24m8zuO3Y?usp=sharing
