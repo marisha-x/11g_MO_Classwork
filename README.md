@@ -31,3 +31,8 @@ https://colab.research.google.com/drive/1rTVEWVfId1FXXu9cM2mdWSDo2rijp_kl?usp=sh
 ✅ Избирате подходящия метод според данните
 ✅ Скалирате данни с Min-Max и Z-Score
 ✅ Почиствате шумни данни (outliers)
+
+ПЪЛЕН СПРАВОЧНИК НА ФУНКЦИИТЕ в примерите
+Организиран по библиотеки с примери и обяснения
+
+https://docs.google.com/document/d/1JM-nICvl2cQtd0KyvdDdGGUMNmMkMJyc/edit?usp=sharing&ouid=117121259764557240207&rtpof=true&sd=true
